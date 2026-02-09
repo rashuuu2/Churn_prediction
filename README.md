@@ -63,12 +63,14 @@ This output helps businesses proactively target customers at risk.
 
 ## 🛠️ Tools & Technologies Used
 
-🐍 Python
-📊 NumPy
-🧮 Pandas
-🤖 Scikit-learn
-🌐 Streamlit
-💾 Pickle
+- Python  
+- NumPy  
+- Pandas  
+- Scikit-Learn  
+- Streamlit / Flask  
+- Pickle  
+- Jupyter Notebook  
+
 
 
 ---
