@@ -72,16 +72,16 @@ This output helps businesses proactively target customers at risk.
 - Jupyter Notebook  
 
 ---
-## 📁 Project Structure
+📁 Project Structure
 churn_prediction/
 │
-├── data/ # Dataset (if included)
-├── notebook/ # EDA & model training notebooks
-├── app.py # Web application
-├── churn_model.pkl # Trained ML model
-├── requirements.txt # Project dependencies
-├── req.txt # Alternate dependency file
-├── runtime.txt # Deployment runtime
+├── data/                 # Dataset (if included)
+├── notebook/             # EDA & model training notebooks
+├── app.py                # Web application
+├── churn_model.pkl       # Trained ML model
+├── requirements.txt      # Project dependencies
+├── req.txt               # Alternate dependency file
+├── runtime.txt           # Deployment runtime configuration
 ├── .gitignore
 └── README.md
 
