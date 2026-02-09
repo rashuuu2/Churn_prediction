@@ -63,19 +63,19 @@ This output helps businesses proactively target customers at risk.
 
 ## 🛠️ Tools & Technologies Used
 
-- Python  
-- NumPy  
-- Pandas  
-- Scikit-Learn  
-- Streamlit / Flask  
-- Pickle  
-- Jupyter Notebook  
+🐍 Python
+📊 NumPy
+🧮 Pandas
+🤖 Scikit-learn
+🌐 Streamlit
+💾 Pickle
+ 
 
 ---
 📁 Project Structure
 churn_prediction/
 │
-├── data/                 # Dataset (if included)
+├── data/  # Dataset (if included)
 ├── notebook/             # EDA & model training notebooks
 ├── app.py                # Web application
 ├── churn_model.pkl       # Trained ML model
