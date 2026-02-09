@@ -69,7 +69,7 @@ This output helps businesses proactively target customers at risk.
 - Scikit-Learn  
 - Streamlit / Flask  
 - Pickle  
-- Jupyter Notebook  
+    
 
 
 
